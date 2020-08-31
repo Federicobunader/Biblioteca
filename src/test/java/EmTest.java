@@ -1,12 +1,14 @@
+import converter.LocalDateAttributeConverter;
 import db.EntityManagerHelper;
 import org.junit.*;
 
+import javax.swing.undo.AbstractUndoableEdit;
 import java.time.LocalDate;
 
 public class EmTest {
 
     @Test
-    public void persistirAutor(){
+    public void persistirAutor() {
         Autor autor = new Autor();
 /*
         System.out.println("Ingrese Nombre");
@@ -21,7 +23,7 @@ public class EmTest {
         String nacionalidad = Main.pedirPorPantallaString();
 */
         autor.setNombre("Pepe");
-        autor.setFechaDeNacimiento(LocalDate.of(10,5,25));
+        autor.setFechaDeNacimiento(LocalDate.of(10, 5, 25));
         autor.setNacionalidad("Argento");
 
         EntityManagerHelper.beginTransaction();
@@ -29,4 +31,12 @@ public class EmTest {
         EntityManagerHelper.commit();
 
     }
+        @Test
+        public void select(){
+            Autor autorPepe = (Autor) EntityManagerHelper.createQuery("from Autor where nombre = 'Pepe'").getSingleResult();
+            System.out.println("ID = "+ autorPepe.getId() + " ,Nombre = " + autorPepe.getNombre() + ", Nacionalidad =" + autorPepe.getNacionalidad());
+            //Assert.assertEquals("Eze", eze.getNombre());
+        }
+
 }
+

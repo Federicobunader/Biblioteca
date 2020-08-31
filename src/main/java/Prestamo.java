@@ -12,8 +12,9 @@ public class Prestamo extends EntidadPersistente{
     @Column(name="fechaDePrestacion", columnDefinition = "DATE")
     private LocalDate fechaDePrestacion;
 
-    @OneToOne(cascade = {CascadeType.ALL})
-    @JoinColumn(name = "lector_id", referencedColumnName = "id")
+   // @OneToOne(cascade = {CascadeType.ALL})
+    //@JoinColumn(name = "lector_id", referencedColumnName = "id")
+   @Transient
     private Lector lector;
 
     public Prestamo(CopiaDelLibro copiaDelLibro, Lector lector) {

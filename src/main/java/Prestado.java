@@ -1,8 +1,9 @@
-import javax.persistence.DiscriminatorColumn;
-import javax.persistence.Entity;
+import javax.persistence.*;
 
 @Entity
-@DiscriminatorColumn(name="prestado")
+@Table(name = "prestado")
+@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+@DiscriminatorColumn(name = "estado")
 public class Prestado extends Estado {
 
     private int diasEnPrestamo;

@@ -13,7 +13,8 @@ public class Lector extends EntidadPersistente{
     @Column(name="cantidadDeLibrosEnPrestamo")
     private int cantidadDeLibrosEnPrestamo;
 
-    @OneToMany(mappedBy = "lector", cascade = {CascadeType.ALL})
+    //@OneToMany(mappedBy = "lector"/*, cascade = {CascadeType.ALL}*/)
+    @Transient
     private List<CopiaDelLibro> librosEnPrestamo;
 
     public boolean puedePedirUnLibro(){

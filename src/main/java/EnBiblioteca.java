@@ -1,8 +1,9 @@
-import javax.persistence.DiscriminatorColumn;
-import javax.persistence.Entity;
+import javax.persistence.*;
 
 @Entity
-@DiscriminatorColumn(name="enBiblioteca")
+@Table(name = "enBiblioteca")
+@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+@DiscriminatorColumn(name = "estado")
 public class EnBiblioteca extends Estado {
 
     @Override

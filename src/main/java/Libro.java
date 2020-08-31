@@ -12,7 +12,8 @@ public class Libro extends EntidadPersistente{
     @Column(name="categoria")
     private String categoria;
 
-    @OneToMany(mappedBy = "libro", cascade = {CascadeType.ALL})
+    //@OneToMany(mappedBy = "libro", cascade = {CascadeType.ALL})
+    @Transient
     private List<CopiaDelLibro> librosEnPrestamo;
 
     public Libro(String editorial, String categoria, List<CopiaDelLibro> librosEnPrestamo) {

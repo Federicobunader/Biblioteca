@@ -11,12 +11,19 @@ public class CopiaDelLibro extends EntidadPersistente{
     @Column(name="anio")
     private int ano;
 
-    @ManyToOne
-    @JoinColumn(name = "autor_id", referencedColumnName = "id")
+    //@ManyToOne
+    //@JoinColumn(name = "autor_id", referencedColumnName = "id")
+    @Transient
     private Autor autor;
 
-    @ManyToOne
-    @JoinColumn(name = "estado_id", referencedColumnName = "id")
+    //@ManyToOne
+    //@JoinColumn(name = "lector_id", referencedColumnName = "id")
+    @Transient
+    private Lector lector;
+
+    //@ManyToOne
+    //@JoinColumn(name = "estado_id", referencedColumnName = "id")
+    @Transient
     private Estado estado;
 
     public CopiaDelLibro(String nombre, int ano, Autor autor, Estado estado) {

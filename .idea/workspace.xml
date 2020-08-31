@@ -4,7 +4,26 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/converter/LocalDateAttributeConverter.java" line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9b70200-9752-4684-ae6d-cf1a02c93604" name="Default Changelist" comment="" />
+    <list default="true" id="d9b70200-9752-4684-ae6d-cf1a02c93604" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConRetraso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConRetraso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CopiaDelLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CopiaDelLibro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EnBiblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EnBiblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EnReparacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EnReparacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Prestado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Prestado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Prestamo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Prestamo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CopiaDelLibro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CopiaDelLibro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Libro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Libro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Prestamo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Prestamo.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +38,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Biblioteca.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Prestado.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="37" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
-                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,35 +53,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/db/EntityManagerHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state relative-caret-position="185">
+              <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#1872#1873#0" expanded="true" />
-                <element signature="e#1932#1933#0" expanded="true" />
-                <element signature="e#1975#1976#0" expanded="true" />
-                <element signature="e#2017#2018#0" expanded="true" />
+                <element signature="e#1863#1864#0" expanded="true" />
+                <element signature="e#1923#1924#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/Persistence.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Prestamo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="136">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/EmTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="278">
+              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,25 +89,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/converter/LocalDateAttributeConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EntidadPersistente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="187">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
-                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Estado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,26 +129,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Autor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="295">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="142">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1125#1126#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Libro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,29 +191,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ConRetraso.java" />
-        <option value="$PROJECT_DIR$/src/main/java/EnBiblioteca.java" />
-        <option value="$PROJECT_DIR$/src/main/java/EnReparacion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Prestado.java" />
         <option value="$PROJECT_DIR$/src/main/java/converter/LocalDateAttributeConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Categoria.java" />
         <option value="$PROJECT_DIR$/src/main/java/EntidadPersistente.java" />
         <option value="$PROJECT_DIR$/src/main/java/Estado.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Prestamo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Libro.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CopiaDelLibro.java" />
         <option value="$PROJECT_DIR$/src/main/java/Biblioteca.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Autor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/EmTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/baseDeDatos/EntityManagerHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/db/EntityManagerHelper.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CopiaDelLibro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Libro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Prestamo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnReparacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnBiblioteca.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConRetraso.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Prestado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Autor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EmTest.java" />
       </list>
     </option>
   </component>
@@ -171,62 +231,79 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="converter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Diseno/Trabajos/Proyectos de IntelliJ/Biblioteca" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -242,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EmTest">
+  <component name="RunManager" selected="JUnit.EmTest.select">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="biblioteca" />
@@ -259,8 +336,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmTest.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Biblioteca" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmTest" />
+      <option name="METHOD_NAME" value="select" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EmTest.select" />
         <item itemvalue="JUnit.EmTest" />
         <item itemvalue="Application.Main" />
       </list>
@@ -280,42 +368,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EmTest - 2020.08.30 at 19h 50m 49s.xml">
+    <history-entry file="EmTest - 2020.08.31 at 17h 42m 02s.xml">
       <configuration name="EmTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 19h 51m 01s.xml">
+    <history-entry file="EmTest - 2020.08.31 at 17h 44m 20s.xml">
       <configuration name="EmTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 19h 51m 10s.xml">
+    <history-entry file="EmTest - 2020.08.31 at 17h 45m 13s.xml">
       <configuration name="EmTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 19h 51m 57s.xml">
+    <history-entry file="EmTest - 2020.08.31 at 17h 51m 04s.xml">
       <configuration name="EmTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 19h 57m 14s.xml">
+    <history-entry file="EmTest - 2020.08.31 at 17h 54m 12s.xml">
       <configuration name="EmTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 19h 58m 20s.xml">
-      <configuration name="EmTest" configurationId="JUnit" />
+    <history-entry file="EmTest_select - 2020.08.31 at 18h 46m 07s.xml">
+      <configuration name="EmTest.select" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 20h 02m 26s.xml">
-      <configuration name="EmTest" configurationId="JUnit" />
+    <history-entry file="EmTest_select - 2020.08.31 at 18h 49m 22s.xml">
+      <configuration name="EmTest.select" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 20h 30m 24s.xml">
-      <configuration name="EmTest" configurationId="JUnit" />
+    <history-entry file="EmTest_select - 2020.08.31 at 18h 57m 13s.xml">
+      <configuration name="EmTest.select" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 20h 32m 19s.xml">
-      <configuration name="EmTest" configurationId="JUnit" />
+    <history-entry file="EmTest_select - 2020.08.31 at 18h 57m 27s.xml">
+      <configuration name="EmTest.select" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmTest - 2020.08.30 at 20h 32m 28s.xml">
-      <configuration name="EmTest" configurationId="JUnit" />
+    <history-entry file="EmTest_select - 2020.08.31 at 18h 57m 52s.xml">
+      <configuration name="EmTest.select" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14630872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.152349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,180 +432,11 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/converter/LocalDateAttributeConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EnBiblioteca.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EnReparacion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Categoria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EntidadPersistente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Prestamo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Prestado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConRetraso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Estado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Libro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CopiaDelLibro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1160#1161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Autor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Categoria.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.26/mysql-connector-java-5.1.26.jar!/com/mysql/jdbc/ConnectionImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="1982" selection-start-line="1982" selection-end-line="1982" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/Persistence.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
@@ -535,45 +454,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Biblioteca.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/Persistence.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1275">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/db/EntityManagerHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="75">
+          <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#1872#1873#0" expanded="true" />
-            <element signature="e#1932#1933#0" expanded="true" />
-            <element signature="e#1975#1976#0" expanded="true" />
-            <element signature="e#2017#2018#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Biblioteca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="176">
+          <caret line="16" column="96" lean-forward="true" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EnBiblioteca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CopiaDelLibro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConRetraso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EnReparacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EntidadPersistente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Estado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Libro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Prestado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Prestamo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Autor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/converter/LocalDateAttributeConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/db/EntityManagerHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+            <element signature="e#1923#1924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -627,7 +696,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>biblioteca</last-edited>
+          <last-edited>Biblioteca</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
